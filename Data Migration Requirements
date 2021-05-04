@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T11:18:00.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.5.8" etag="Y7IMb1pFiEypBuhG-vPS" type="github"><diagram id="1DnRGVxj8UxVJYmalo_y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-04T12:07:27.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="bHubuUHBc3M3DWplIyrc" version="14.5.8" type="github">
+  <diagram id="1DnRGVxj8UxVJYmalo_y" name="Page-1">
+    <mxGraphModel dx="722" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-34" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#039aff&quot;&gt;ATTRIBUTES&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#039AFF;opacity=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="710" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-2" value="DATA QUALITY MONITORING" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_deployment_manager" vertex="1" parent="1">
+          <mxGeometry x="340.2" y="30" width="119.59" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;em style=&quot;box-sizing: border-box ; color: rgb(59 , 60 , 61) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;strong style=&quot;box-sizing: border-box&quot;&gt;data quality is the state of data, which is tightly connected with its ability (or inability) to solve business tasks&lt;/strong&gt;&lt;/em&gt;&lt;span style=&quot;color: rgb(59 , 60 , 61) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; text-align: left&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-13" value="CONSISTENCY" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
+          <mxGeometry x="50.1" y="267.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-14" value="ACCURACY" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
+          <mxGeometry x="50.1" y="347.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-15" value="COMPLETENESS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
+          <mxGeometry x="50.100000000000016" y="427.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-16" value="AUDITABILITY" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
+          <mxGeometry x="50.1" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-17" value="ORDERLINESS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
+          <mxGeometry x="420.1" y="267.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-18" value="UNIQUENESS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
+          <mxGeometry x="420.1000000000001" y="347.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-19" value="TIMELINESS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
+          <mxGeometry x="420.1" y="427.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-23" value="No Contradictions:&amp;nbsp;&lt;span style=&quot;&quot;&gt;i.e. 5 submissions for BSFP on Snowflake =&amp;gt; 5 rows shown on Qlik&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="180.1" y="260" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-25" value="Data corresponds to reality. CORRECT DATA." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="180.1" y="358.75" width="140" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-26" value="&lt;span style=&quot;font-family: &amp;#34;lato&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-style: normal ; font-weight: 300 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;As long as the data meets the expectations then the data is considered complete. (We can skip optional fields).&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="180.1" y="420" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-28" value="&lt;h1&gt;References&lt;/h1&gt;&lt;p&gt;https://www.scnsoft.com/blog/guide-to-data-quality-management&lt;/p&gt;&lt;p&gt;https://smartbridge.com/data-done-right-6-dimensions-of-data-quality/&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://www.red-gate.com/simple-talk/sql/bi/implementing-a-data-quality-monitoring-framework/&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;opacity=30;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="980" width="410" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-29" value="Data has the required shapes and formats across all the organization" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="549.9" y="273.13" width="160.2" height="48.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-30" value="No duplications" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="549.9" y="363.13" width="160.2" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-31" value="&lt;span style=&quot;font-family: &amp;#34;lato&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-style: normal ; font-weight: 300 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Timeliness references whether information is available when it is expected and needed.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="549.9" y="432.5" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-32" value="&lt;span style=&quot;font-family: &amp;#34;lato&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-style: normal ; font-weight: 300 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Trace changes in data&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180.1" y="517.5" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-35" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#039aff&quot;&gt;When to implement?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d79b00;fillColor=#ffe6cc;opacity=50;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-36" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;opacity=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-37" value="Data is an asset" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="KwysIB7vvYs6RsxnwYZb-36">
+          <mxGeometry width="200" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-38" value="Master Data Management" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="KwysIB7vvYs6RsxnwYZb-36">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-39" value="Implementing New Systems" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="KwysIB7vvYs6RsxnwYZb-36">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-40" value="Migrations to new system" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="KwysIB7vvYs6RsxnwYZb-36">
+          <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="-70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-41" value="Risk of non compliance" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="KwysIB7vvYs6RsxnwYZb-36">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-43" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#039aff&quot;&gt;DQM Process&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d79b00;fillColor=#ffe6cc;opacity=50;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KwysIB7vvYs6RsxnwYZb-44" target="KwysIB7vvYs6RsxnwYZb-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-44" value="1. PROFILE" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#039AFF;opacity=50;align=center;" vertex="1" parent="1">
+          <mxGeometry x="505" y="670" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KwysIB7vvYs6RsxnwYZb-45" target="KwysIB7vvYs6RsxnwYZb-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-45" value="2. DEFINE RULES" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#039AFF;opacity=50;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KwysIB7vvYs6RsxnwYZb-46" target="KwysIB7vvYs6RsxnwYZb-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-46" value="3. DESIGN" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#039AFF;opacity=50;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KwysIB7vvYs6RsxnwYZb-47" target="KwysIB7vvYs6RsxnwYZb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-47" value="4. IMPLEMENT&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%223.%20DESIGN%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bdashed%3D1%3BstrokeColor%3D%23000000%3BfillColor%3D%23039AFF%3Bopacity%3D50%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22580%22%20y%3D%22780%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#039AFF;opacity=50;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KwysIB7vvYs6RsxnwYZb-48" target="KwysIB7vvYs6RsxnwYZb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-48" value="5. MONITOR" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#039AFF;opacity=50;align=center;" vertex="1" parent="1">
+          <mxGeometry x="409.99999999999994" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
