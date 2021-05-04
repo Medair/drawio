@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T12:32:14.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Hn5rZOBOy_8RkNsNAhUB" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T12:35:40.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BI5rM48quM51chNVjqtV" version="14.5.8" type="github">
   <diagram id="1DnRGVxj8UxVJYmalo_y" name="Page-1">
-    <mxGraphModel dx="722" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="KwysIB7vvYs6RsxnwYZb-15" value="COMPLETENESS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
           <mxGeometry x="50.100000000000016" y="427.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KwysIB7vvYs6RsxnwYZb-16" value="&lt;p style=&quot;line-height: 120%&quot;&gt;AUDITABILITY&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=20;fillColor=#039AFF;" vertex="1" parent="1">
+        <mxCell id="KwysIB7vvYs6RsxnwYZb-16" value="&lt;p style=&quot;line-height: 120%&quot;&gt;AUDITABILITY&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=20;fillColor=#039AFF;glass=1;" vertex="1" parent="1">
           <mxGeometry x="50.1" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KwysIB7vvYs6RsxnwYZb-17" value="ORDERLINESS" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;opacity=30;fillColor=#039AFF;" vertex="1" parent="1">
