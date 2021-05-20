@@ -1,9 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:00:03.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4QiQ6AsQFIV8G4wYkzo2" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:29:30.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="TxiWOctmSIzZHwfM6ylL" version="14.6.13" type="github">
   <diagram id="yqOjELZXzaofssSiSijN" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-3" target="ZEEXmaNfp-tgjDa4_XTS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-4" target="ZEEXmaNfp-tgjDa4_XTS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-5" target="ZEEXmaNfp-tgjDa4_XTS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-6" target="ZEEXmaNfp-tgjDa4_XTS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.056;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-6" target="ZEEXmaNfp-tgjDa4_XTS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-6" value="DATA WAREHOUSE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-10" target="ZEEXmaNfp-tgjDa4_XTS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/containers/128/fork4.png;fontSize=16;align=left;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="310" y="188" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-15" value="ETL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/support-for-business/64/market-_bazaar-shop_-_trade-_mart-128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="156" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-18" value="MARTS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/support-for-business/64/market-_bazaar-shop_-_trade-_mart-128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-24" target="ZEEXmaNfp-tgjDa4_XTS-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-24" value="OLTP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.033;exitY=0.136;exitDx=0;exitDy=0;fontSize=16;exitPerimeter=0;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-25" target="ZEEXmaNfp-tgjDa4_XTS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/support-for-business/64/market-_bazaar-shop_-_trade-_mart-128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.011;exitY=0.452;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;exitPerimeter=0;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-24" target="ZEEXmaNfp-tgjDa4_XTS-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-26" target="ZEEXmaNfp-tgjDa4_XTS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/support-for-business/64/market-_bazaar-shop_-_trade-_mart-128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-27" target="ZEEXmaNfp-tgjDa4_XTS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-27" value="MARTS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/support-for-business/64/market-_bazaar-shop_-_trade-_mart-128.png;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-39" target="ZEEXmaNfp-tgjDa4_XTS-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-39" value="DATA WAREHOUSE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-43" value="ETL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="ZEEXmaNfp-tgjDa4_XTS-44" target="ZEEXmaNfp-tgjDa4_XTS-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ZEEXmaNfp-tgjDa4_XTS-46">
+          <mxGeometry x="-0.2063" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-48" value="CUBE BROWSER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ZEEXmaNfp-tgjDa4_XTS-46">
+          <mxGeometry x="-0.1527" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-44" value="OLAP" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_cube.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="495" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEEXmaNfp-tgjDa4_XTS-49" value="REPORTING LAYER" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="890" y="495" width="36.8" height="50.8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
