@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T07:16:57.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AtDkQpxU6CZoi7OFJc1l" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T07:17:38.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="k_vXF7ozY3wy1F8Rjdtx" version="14.6.13" type="github">
   <diagram id="KVQR9T0yZKl5rM5RiHQ3" name="Page-1">
     <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="whqjFEMrZWb5qqVe9_r3-35" value="BGD NUTRITION" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="570" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="whqjFEMrZWb5qqVe9_r3-37" value="TASK_0" style="triangle;whiteSpace=wrap;html=1;opacity=70;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="70" y="209" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
