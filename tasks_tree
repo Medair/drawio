@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T10:03:48.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="DjcitYOmHLRVdxMJ4ltl" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T10:13:17.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="64L63aBhC96VsOoE93Ep" version="14.9.2" type="github">
   <diagram id="KVQR9T0yZKl5rM5RiHQ3" name="Page-1">
     <mxGraphModel dx="1209" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -248,19 +248,24 @@
           <mxGeometry x="710" y="1920" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7vBWqJnxYzFvqW9TVkkb-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="390" y="500" width="80" height="90" as="geometry" />
+          <mxGeometry x="380" y="530" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7vBWqJnxYzFvqW9TVkkb-25" value="TASK_1" style="triangle;whiteSpace=wrap;html=1;opacity=70;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rotation=90;" vertex="1" parent="7vBWqJnxYzFvqW9TVkkb-24">
+        <mxCell id="7vBWqJnxYzFvqW9TVkkb-25" value="TASK_3" style="triangle;whiteSpace=wrap;html=1;opacity=70;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rotation=90;" vertex="1" parent="7vBWqJnxYzFvqW9TVkkb-24">
           <mxGeometry x="10" y="-10" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7vBWqJnxYzFvqW9TVkkb-26" value="DELETION_DETECTION_TASK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7vBWqJnxYzFvqW9TVkkb-24">
           <mxGeometry x="20" y="70" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7vBWqJnxYzFvqW9TVkkb-30" value="Action1" style="html=1;rounded=1;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="440" y="265" width="100" height="30" as="geometry" />
+        <mxCell id="7vBWqJnxYzFvqW9TVkkb-30" value="IF DONE/SUCESS" style="html=1;rounded=1;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vBWqJnxYzFvqW9TVkkb-31" value="Action2" style="html=1;rounded=1;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="620" y="265" width="100" height="30" as="geometry" />
+        <mxCell id="7vBWqJnxYzFvqW9TVkkb-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="7vBWqJnxYzFvqW9TVkkb-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vBWqJnxYzFvqW9TVkkb-31" value="AFTER TASK_1" style="html=1;rounded=1;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7vBWqJnxYzFvqW9TVkkb-32" value="" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="260" width="16" height="16" as="geometry" />
@@ -268,13 +273,7 @@
         <mxCell id="7vBWqJnxYzFvqW9TVkkb-33" value="" style="html=1;rounded=0;labelBackgroundColor=none;align=left;spacingLeft=5;endArrow=open;endFill=0;dashed=1;" edge="1" source="7vBWqJnxYzFvqW9TVkkb-30" target="7vBWqJnxYzFvqW9TVkkb-31" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vBWqJnxYzFvqW9TVkkb-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="7vBWqJnxYzFvqW9TVkkb-35" target="7vBWqJnxYzFvqW9TVkkb-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7vBWqJnxYzFvqW9TVkkb-35" value="AFTER TASK_1&lt;br&gt;DONE/SUCCESS" style="shape=mxgraph.uml25.actionParams;html=1;align=center;verticalAlign=top;absoluteArcSize=1;arcSize=10;dashed=0;spacingLeft=10;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7vBWqJnxYzFvqW9TVkkb-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="whqjFEMrZWb5qqVe9_r3-45" target="7vBWqJnxYzFvqW9TVkkb-35">
+        <mxCell id="7vBWqJnxYzFvqW9TVkkb-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="whqjFEMrZWb5qqVe9_r3-45" target="7vBWqJnxYzFvqW9TVkkb-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
