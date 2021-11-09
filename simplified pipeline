@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T13:56:37.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ogx4liWVg7HktUEIQxvX" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T09:08:54.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Tp-turJIRqZO8IAGhZbe" version="15.7.0" type="github">
   <diagram id="MmszLzpIDrroJcNaY7O_" name="Page-1">
-    <mxGraphModel dx="1209" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="70" y="315" width="610" height="310" as="geometry" />
         </mxCell>
         <mxCell id="WeFb6tsgL55aMTD5S07t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" parent="1" source="WeFb6tsgL55aMTD5S07t-1" target="WeFb6tsgL55aMTD5S07t-28" edge="1">
@@ -68,10 +68,10 @@
         <mxCell id="WeFb6tsgL55aMTD5S07t-32" value="ATOMS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/atom-128.png;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="450" y="30" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeFb6tsgL55aMTD5S07t-40" target="c7K7OJLYOYhHl-t6Mt-b-2">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WeFb6tsgL55aMTD5S07t-40" target="c7K7OJLYOYhHl-t6Mt-b-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeFb6tsgL55aMTD5S07t-40" target="WeFb6tsgL55aMTD5S07t-23">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WeFb6tsgL55aMTD5S07t-40" target="WeFb6tsgL55aMTD5S07t-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="310" as="targetPoint" />
           </mxGeometry>
@@ -118,25 +118,25 @@
         <mxCell id="WeFb6tsgL55aMTD5S07t-76" value="Each 15min, Sunday to Friday" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="620" y="164.13" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeFb6tsgL55aMTD5S07t-77" value="Once each 4 hours, 30min past the hour all week days" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="WeFb6tsgL55aMTD5S07t-77" value="Once each 3 hours, 30min past the hour all week days" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="270" y="342" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7K7OJLYOYhHl-t6Mt-b-2" target="c7K7OJLYOYhHl-t6Mt-b-4">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c7K7OJLYOYhHl-t6Mt-b-2" target="c7K7OJLYOYhHl-t6Mt-b-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-2" value="EXTRACT" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-2" value="EXTRACT" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="332" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-3" value="Once each 4 hours, 35min past the hour all week days" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-3" value="Once each 3 hours, 35min past the hour all week days" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="270" y="435" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7K7OJLYOYhHl-t6Mt-b-4" target="c7K7OJLYOYhHl-t6Mt-b-7">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c7K7OJLYOYhHl-t6Mt-b-4" target="c7K7OJLYOYhHl-t6Mt-b-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-4" value="TRANSFORM" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-4" value="TRANSFORM" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="425" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c7K7OJLYOYhHl-t6Mt-b-7" target="WeFb6tsgL55aMTD5S07t-62">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="c7K7OJLYOYhHl-t6Mt-b-7" target="WeFb6tsgL55aMTD5S07t-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="555" />
@@ -144,10 +144,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-7" value="BGD DASHBOARD" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-7" value="BGD DASHBOARD" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="515" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-6" value="Once each 4 hours, 40min past the hour all week days" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="c7K7OJLYOYhHl-t6Mt-b-6" value="Once each 3 hours, 40min past the hour all week days" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="270" y="525" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
