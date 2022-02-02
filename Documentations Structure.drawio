@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T09:40:35.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="bJ_Awbgw7nT2PwAAOkP7" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T09:40:53.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ILgjn9nCD3pYxradNsI0" version="15.7.3" type="github">
   <diagram id="HMgrvoSyfSKHuGCKJPUB" name="Page-1">
     <mxGraphModel dx="1209" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="sUrJkroGvJb6hWGGBYY--8" value="SHARED" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sUrJkroGvJb6hWGGBYY--5" vertex="1">
           <mxGeometry x="510" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sUrJkroGvJb6hWGGBYY--6" value="FOLDERS" style="swimlane;startSize=20;horizontal=0;" parent="sUrJkroGvJb6hWGGBYY--3" vertex="1">
+        <mxCell id="sUrJkroGvJb6hWGGBYY--6" value="DOC TYPE" style="swimlane;startSize=20;horizontal=0;" parent="sUrJkroGvJb6hWGGBYY--3" vertex="1">
           <mxGeometry y="260" width="650" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sUrJkroGvJb6hWGGBYY--12" value="DRAFTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="sUrJkroGvJb6hWGGBYY--6" vertex="1">
