@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T07:23:37.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sNf3qtkEMPIQzHDg-mHA" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T07:56:23.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wqOtSyE2VfLSnrSOX9CM" version="20.8.1" type="github">
   <diagram id="XCdVcCb-hxvVRO1plZPP" name="Page-1">
-    <mxGraphModel dx="1222" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,23 +106,32 @@
         <mxCell id="KPjfPDfjvVAzUoZ3MrCe-3" value="&lt;h1&gt;Current State&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Qlik app deleted&lt;/li&gt;&lt;li&gt;No PII clear detection process&lt;/li&gt;&lt;li&gt;No source classification&lt;/li&gt;&lt;li&gt;Integration not working (ticket sent)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#33a6ff;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry y="440" width="270" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-13" value="" style="group;strokeColor=#90BEF9;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="440" width="405" height="470" as="geometry" />
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-17" value="&lt;h1&gt;Tasks&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Request ODK Aggregate files&lt;/li&gt;&lt;li&gt;Request DHIS2 files&lt;/li&gt;&lt;li&gt;Classify files by country/sector and activity (if possible)&lt;/li&gt;&lt;li&gt;Classify files with PII (if possible)&lt;/li&gt;&lt;li&gt;Upload to blob storage&lt;/li&gt;&lt;li&gt;Boomi process to detect ONA old or inactive forms&lt;/li&gt;&lt;li&gt;Boomi process to archive on approval&lt;/li&gt;&lt;li&gt;Qlik app mockup&lt;/li&gt;&lt;li&gt;Azure-Snowflake pipeline and SQL views&lt;/li&gt;&lt;li&gt;Data catalog (if possible)&lt;/li&gt;&lt;li&gt;Communications, visibility after documentation&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry y="920" width="570" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-5" value="&lt;h1&gt;Needed Docs &amp;amp; Processes&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="405" height="150" as="geometry" />
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="920" width="260" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-6" value="Data Request" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;fontSize=24;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="614" width="380" height="60" as="geometry" />
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-13" value="" style="group;strokeColor=#90BEF9;container=0;" vertex="1" connectable="0" parent="KPjfPDfjvVAzUoZ3MrCe-19">
+          <mxGeometry width="260" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-7" value="Archiving approval" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;fontSize=24;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="684" width="380" height="60" as="geometry" />
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-5" value="&lt;h1&gt;Docs &amp;amp; Processes&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontColor=#3399FF;" vertex="1" parent="KPjfPDfjvVAzUoZ3MrCe-19">
+          <mxGeometry width="260" height="169.14893617021275" as="geometry" />
         </mxCell>
-        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-8" value="User and Tech documentations" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;fontSize=24;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="754" width="380" height="60" as="geometry" />
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-6" value="Data Request" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;fontSize=24;fontColor=#3399FF;" vertex="1" parent="KPjfPDfjvVAzUoZ3MrCe-19">
+          <mxGeometry x="6.419753086419753" y="196.2127659574468" width="243.9506172839506" height="67.65957446808511" as="geometry" />
         </mxCell>
-        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-16" value="Training, Communications &amp;amp; Define the WHO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#b85450;fontSize=24;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="290" y="825" width="380" height="60" as="geometry" />
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-7" value="Archiving approval" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;fontSize=24;fontColor=#3399FF;" vertex="1" parent="KPjfPDfjvVAzUoZ3MrCe-19">
+          <mxGeometry x="6.419753086419753" y="275.1489361702128" width="243.9506172839506" height="67.65957446808511" as="geometry" />
+        </mxCell>
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-8" value="User and Tech documentations" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=default;fontSize=24;fontColor=#3399FF;" vertex="1" parent="KPjfPDfjvVAzUoZ3MrCe-19">
+          <mxGeometry x="6.419753086419753" y="354.0851063829787" width="243.9506172839506" height="67.65957446808511" as="geometry" />
+        </mxCell>
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-16" value="Trainings, Comms and WHOs" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#b85450;fontSize=24;fillColor=#f8cecc;" vertex="1" parent="KPjfPDfjvVAzUoZ3MrCe-19">
+          <mxGeometry x="6.419753086419753" y="434.1489361702128" width="243.9506172839506" height="67.65957446808511" as="geometry" />
+        </mxCell>
+        <mxCell id="KPjfPDfjvVAzUoZ3MrCe-20" value="&lt;h1&gt;Features&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Qlik app deleted&lt;/li&gt;&lt;li&gt;No PII clear detection process&lt;/li&gt;&lt;li&gt;No source classification&lt;/li&gt;&lt;li&gt;Integration not working (ticket sent)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#33a6ff;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="560" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
