@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T07:11:42.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MIPzLmXL-ZzuxOR64arz" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T09:07:23.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="juD5T3zw8pD3ED-RMfzK" version="21.3.7" type="github" pages="2">
   <diagram name="High Level" id="EL0j8ez4SCxjmebTVbut">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -117,6 +117,38 @@
         </mxCell>
         <mxCell id="_01zA4ay3gGD8aKBE7KH-15" value="Global form" style="shape=partialRectangle;whiteSpace=wrap;left=0;right=0;fillColor=#f8cecc;strokeColor=#b85450;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;strokeWidth=0;" vertex="1" parent="_01zA4ay3gGD8aKBE7KH-11">
           <mxGeometry y="35" width="160" height="11.666666666666666" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ih4e2HeevtuZuXvpRo5y" name="Customization - HttpTrigger1">
+    <mxGraphModel dx="588" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OQ_jI1y5XF9I1KlUCZ2U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQ_jI1y5XF9I1KlUCZ2U-1" target="OQ_jI1y5XF9I1KlUCZ2U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ_jI1y5XF9I1KlUCZ2U-7" value="API call with needed variables &amp;amp; URLs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="OQ_jI1y5XF9I1KlUCZ2U-6">
+          <mxGeometry x="0.1821" y="-1" relative="1" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQ_jI1y5XF9I1KlUCZ2U-1" value="Azure function - HttpTrigger1" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ_jI1y5XF9I1KlUCZ2U-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQ_jI1y5XF9I1KlUCZ2U-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQ_jI1y5XF9I1KlUCZ2U-8" value="Extract variables from the API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="OQ_jI1y5XF9I1KlUCZ2U-3">
+          <mxGeometry x="-0.1493" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQ_jI1y5XF9I1KlUCZ2U-2" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.play_start" vertex="1" parent="1">
+          <mxGeometry x="104" y="180" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
