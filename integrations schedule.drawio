@@ -1,14 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T10:18:01.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oZHxXCDoK_H40X_ydpLT" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T10:25:25.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="H2mZw9RvZivliJP4htlP" version="21.6.8" type="github">
   <diagram name="Page-1" id="kQQH8EyvIiI8qKK7--1i">
     <mxGraphModel dx="936" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WhydafLTyiGb9I_DGI9D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-1" target="T8iTNFM0dFt_-LyN7YIx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-1" value="1. FinDim" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-22" value="" style="group;strokeColor=default;fontSize=12;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="140" width="140" height="180" as="geometry" />
+          <mxGeometry x="80" y="160" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-9" value="OrgUnit - C1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="T8iTNFM0dFt_-LyN7YIx-22" vertex="1">
           <mxGeometry width="140" height="14.999999999999996" as="geometry" />
@@ -46,44 +54,84 @@
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-21" value="Equipment - XA01" style="strokeColor=#d79b00;fillColor=#ffe6cc;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="T8iTNFM0dFt_-LyN7YIx-22" vertex="1">
           <mxGeometry y="165" width="140" height="14.999999999999996" as="geometry" />
         </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.022;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-23" target="T8iTNFM0dFt_-LyN7YIx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-23" target="T8iTNFM0dFt_-LyN7YIx-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-23" value="2. Accounts" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="371" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-37" value="" style="group;strokeColor=default;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="370" width="140" height="40" as="geometry" />
+        <mxCell id="WhydafLTyiGb9I_DGI9D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-39" target="T8iTNFM0dFt_-LyN7YIx-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="520" />
+              <mxPoint x="240" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-24" value="" style="group;strokeColor=default;fontSize=12;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="370" width="140" height="35.55555555555556" as="geometry" />
-        </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-25" value="Account rules" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="370" width="140" height="13.333333333333332" as="geometry" />
-        </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-26" value="Account heads" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="383.3333333333333" width="140" height="13.333333333333332" as="geometry" />
-        </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-27" value="Account codes" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="396.6666666666667" width="140" height="13.333333333333332" as="geometry" />
+        <mxCell id="WhydafLTyiGb9I_DGI9D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-39" target="T8iTNFM0dFt_-LyN7YIx-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-39" value="3. Currencies &amp;amp; Exchange rates" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-40" value="Transaction currencies" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="513.3333333333333" width="140" height="13.333333333333332" as="geometry" />
+        <mxCell id="WhydafLTyiGb9I_DGI9D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.001;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-42" target="T8iTNFM0dFt_-LyN7YIx-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-41" value="Rates" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="526.6633333333333" width="140" height="13.333333333333332" as="geometry" />
+        <mxCell id="WhydafLTyiGb9I_DGI9D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-42" target="T8iTNFM0dFt_-LyN7YIx-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-42" value="4. Fin4U suppliers" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="612.67" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-43" value="Payment terms" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="620.0033333333332" width="140" height="13.333333333333332" as="geometry" />
-        </mxCell>
-        <mxCell id="T8iTNFM0dFt_-LyN7YIx-44" value="Tax codes &amp;amp; groups" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="633.3333333333333" width="140" height="13.333333333333332" as="geometry" />
+        <mxCell id="WhydafLTyiGb9I_DGI9D-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="T8iTNFM0dFt_-LyN7YIx-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="T8iTNFM0dFt_-LyN7YIx-45" value="5. Projects" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-7" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="506.67333333333323" width="140" height="26.66333333333347" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-40" value="Transaction currencies" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="WhydafLTyiGb9I_DGI9D-7" vertex="1">
+          <mxGeometry width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-41" value="Rates" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="WhydafLTyiGb9I_DGI9D-7" vertex="1">
+          <mxGeometry y="13.330000000000098" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-8" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="626.6733333333332" width="140" height="26.663333333333412" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-43" value="Payment terms" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="WhydafLTyiGb9I_DGI9D-8" vertex="1">
+          <mxGeometry width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-44" value="Tax codes &amp;amp; groups" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="WhydafLTyiGb9I_DGI9D-8" vertex="1">
+          <mxGeometry y="13.330000000000041" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-9" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="81" y="726.6733333333332" width="140" height="26.663333333333412" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-2" value="Projects" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="WhydafLTyiGb9I_DGI9D-9">
+          <mxGeometry width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-3" value="Award linkage" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="WhydafLTyiGb9I_DGI9D-9">
+          <mxGeometry y="13.330000000000041" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="WhydafLTyiGb9I_DGI9D-10" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-25" value="Account rules" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="WhydafLTyiGb9I_DGI9D-10" vertex="1">
+          <mxGeometry width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-26" value="Account heads" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="WhydafLTyiGb9I_DGI9D-10" vertex="1">
+          <mxGeometry y="13.333333333333314" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-27" value="Account codes" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="WhydafLTyiGb9I_DGI9D-10" vertex="1">
+          <mxGeometry y="26.666666666666686" width="140" height="13.333333333333332" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
