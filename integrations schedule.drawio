@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-08-28T08:42:05.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zPGZGWEtFznA4FxRux4q" version="21.6.8" type="github">
+  <diagram name="Page-1" id="kQQH8EyvIiI8qKK7--1i">
+    <mxGraphModel dx="936" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-1" value="1. FinDim" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-22" value="" style="group;strokeColor=default;fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="140" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-9" value="OrgUnit - C1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-11" value="Country - C9" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="14.999999999999996" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-12" value="Projects - B0" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="29.999999999999993" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-13" value="Work Order - BF" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="45" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-14" value="Donor - A4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="59.999999999999986" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-15" value="Award - ZA10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="75" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-16" value="Locations - DF" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="90" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-17" value="Sector - ZN90" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="105" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-18" value="Program - ZN12" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="119.99999999999997" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-19" value="Result - XP02" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="135" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-20" value="Employee - C0" style="strokeColor=#d6b656;fillColor=#fff2cc;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="150" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-21" value="Equipment - XA01" style="strokeColor=#d79b00;fillColor=#ffe6cc;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="T8iTNFM0dFt_-LyN7YIx-22">
+          <mxGeometry y="165" width="140" height="14.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-23" value="2. Accounts" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-37" value="" style="group;strokeColor=default;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="370" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-24" value="" style="group;strokeColor=default;fontSize=12;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="370" width="140" height="35.55555555555556" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-25" value="Account rules" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-26" value="Account heads" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="383.3333333333333" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-27" value="Account codes" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="396.6666666666667" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-39" value="3. Currencies &amp;amp; Exchange rates" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-40" value="Transaction currencies" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="513.3333333333333" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-41" value="Rates" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="526.6633333333333" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-42" value="4. Fin4U suppliers" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-43" value="Payment terms" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620.0033333333332" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-44" value="Tax codes &amp;amp; groups" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="633.3333333333333" width="140" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="T8iTNFM0dFt_-LyN7YIx-45" value="5. Projects" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
