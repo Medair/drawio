@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T13:20:07.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lBV3lBEKn7ooqtdfyOXE" version="22.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-15T13:23:01.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OIGK9rl12znXigzzUarW" version="22.1.1" type="github" pages="5">
   <diagram id="Z4i6N7PGft-0dj0jKOvz" name="Overview - Procurement">
     <mxGraphModel dx="872" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -236,6 +236,32 @@
         </mxCell>
         <mxCell id="g6NfniYXF9_w8yxWcJeS-2" value="&lt;font color=&quot;#ff3333&quot;&gt;MedEx&lt;/font&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="20" width="300" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eOL0iLS5cOAvuLwQb1fB" name="Logical Design">
+    <mxGraphModel dx="1221" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e7X06huSIFkktnoPkuXo-1" value="PR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e7X06huSIFkktnoPkuXo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e7X06huSIFkktnoPkuXo-2" target="e7X06huSIFkktnoPkuXo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7X06huSIFkktnoPkuXo-2" value="PR ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e7X06huSIFkktnoPkuXo-3" value="PR Lines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e7X06huSIFkktnoPkuXo-4" value="PR line ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="510" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e7X06huSIFkktnoPkuXo-5" value="PR ID (FK)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -620,7 +646,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-fmwc8x3LGkFgJVDEIDa" name="Dimensional Model">
-    <mxGraphModel dx="1018" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
