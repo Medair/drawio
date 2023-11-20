@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T11:53:45.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GxgTdy96iEnPNRD2Rasg" version="22.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-20T11:54:03.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="t9IX9GnXF08DMwd4Qy_B" version="22.1.3" type="github" pages="7">
   <diagram id="Z4i6N7PGft-0dj0jKOvz" name="Overview - Procurement">
     <mxGraphModel dx="1221" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -957,9 +957,9 @@
         <mxCell id="CCEkEzpepLWFTGeIpx8a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-QwAtZEClNRT_jPDG5mv-1" target="JPg_aZvuBEHlbw3oRKO0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CCEkEzpepLWFTGeIpx8a-5" value="country" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CCEkEzpepLWFTGeIpx8a-4">
+        <mxCell id="CCEkEzpepLWFTGeIpx8a-5" value="country, location" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CCEkEzpepLWFTGeIpx8a-4">
           <mxGeometry x="0.0378" y="4" relative="1" as="geometry">
-            <mxPoint x="13" as="offset" />
+            <mxPoint x="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-QwAtZEClNRT_jPDG5mv-1" value="med_sites" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
@@ -1026,7 +1026,7 @@
           <mxGeometry x="320" y="734" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aJ9dTOxar0UXtUuWZkvU-7" value="&lt;h1&gt;Grain&lt;/h1&gt;&lt;p&gt;Each row of the fact table represents the paid amount of an item or service that has been requested based on a PR and requested with a PO that is related to a vendor that submitted his bid based on RFX. The amount paid is also related to financial dimensions and account codes.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="222" width="290" height="170" as="geometry" />
+          <mxGeometry x="550" y="222" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aJ9dTOxar0UXtUuWZkvU-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Logical Design&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="10" y="82" width="830" height="28" as="geometry" />
