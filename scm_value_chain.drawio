@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T17:44:33.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gZQMVcpM4u8P9Yu8E5Qj" version="22.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-24T10:32:24.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rP1OR2mXE2nnta1woYwW" version="22.1.3" type="github" pages="8">
   <diagram id="Z4i6N7PGft-0dj0jKOvz" name="Overview - Procurement">
     <mxGraphModel dx="1221" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1034,23 +1034,104 @@
         <mxCell id="xUJJJ5QZT3giigK9fmFy-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Dimensional Model&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="830" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QcmERXeZLuurTADlJESh-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Technical Steps&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1120" width="830" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="QcmERXeZLuurTADlJESh-5" value="(file) &amp;gt; View&amp;nbsp; &amp;gt; Read into Dimensions and Fact tables &amp;gt; Views of Qlik Mart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1170" width="830" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QcmERXeZLuurTADlJESh-6" value="(file) &amp;gt; Temp Table &amp;gt; Read into Dimensions and Fact tables &amp;gt; Views of Qlik Mart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1210" width="830" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QcmERXeZLuurTADlJESh-7" value="POC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1175" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QcmERXeZLuurTADlJESh-8" value="Implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1215" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="CCEkEzpepLWFTGeIpx8a-1" value="med_accountcode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="560" y="477" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fi5IDAYW2RnfCyft6s1M" name="DW Architecture">
+    <mxGraphModel dx="1357" dy="-361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iRtQ9VVr9mmD2cW8Baby-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Technical Steps&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1120" width="830" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="iRtQ9VVr9mmD2cW8Baby-2" value="(file) &amp;gt; View&amp;nbsp; &amp;gt; Read into Dimensions and Fact tables &amp;gt; Views of Qlik Mart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1170" width="830" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRtQ9VVr9mmD2cW8Baby-3" value="(file) &amp;gt; Temp Table &amp;gt; Read into Dimensions and Fact tables &amp;gt; Views of Qlik Mart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1210" width="830" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRtQ9VVr9mmD2cW8Baby-4" value="POC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1175" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iRtQ9VVr9mmD2cW8Baby-5" value="Implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1215" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-21" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="1320" width="585" height="406.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="35" y="103" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-3" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#9EC2F5;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="257" y="76.5" width="87" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-5" value="Blob Storage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-6" value="Snowflake" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="240.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-7" value="(file)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="40" y="204.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-8" value="stg_scm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="240.5" y="209.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TW6S9ZztQAryHLJ37Mz1-21" source="TW6S9ZztQAryHLJ37Mz1-7" target="TW6S9ZztQAryHLJ37Mz1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-14" value="load into views" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TW6S9ZztQAryHLJ37Mz1-9">
+          <mxGeometry x="-0.2765" y="3" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-10" value="int_medex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="240.5" y="306.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TW6S9ZztQAryHLJ37Mz1-21" source="TW6S9ZztQAryHLJ37Mz1-8" target="TW6S9ZztQAryHLJ37Mz1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-13" value="load into tables" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TW6S9ZztQAryHLJ37Mz1-11">
+          <mxGeometry x="-0.1255" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-15" value="qlik_mart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="240.5" y="386.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-16" value="Refined data as views" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TW6S9ZztQAryHLJ37Mz1-21" source="TW6S9ZztQAryHLJ37Mz1-10" target="TW6S9ZztQAryHLJ37Mz1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-17" value="QlikSense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="465" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.opensearch_dashboards;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="486" y="96" width="78" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-19" value="Qlik Space (TBD)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="TW6S9ZztQAryHLJ37Mz1-21">
+          <mxGeometry x="465" y="386.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TW6S9ZztQAryHLJ37Mz1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TW6S9ZztQAryHLJ37Mz1-21" source="TW6S9ZztQAryHLJ37Mz1-15" target="TW6S9ZztQAryHLJ37Mz1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G_3-R3aTESyMnwi2ZIqF-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="1790" width="320" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="G_3-R3aTESyMnwi2ZIqF-2" value="Legend" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="G_3-R3aTESyMnwi2ZIqF-1">
+          <mxGeometry width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="G_3-R3aTESyMnwi2ZIqF-3" value="Snowflake views" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="G_3-R3aTESyMnwi2ZIqF-1">
+          <mxGeometry x="10" y="56" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G_3-R3aTESyMnwi2ZIqF-4" value="Qlik Space" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="G_3-R3aTESyMnwi2ZIqF-1">
+          <mxGeometry x="10" y="96" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G_3-R3aTESyMnwi2ZIqF-5" value="Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="G_3-R3aTESyMnwi2ZIqF-1">
+          <mxGeometry x="10" y="16" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
