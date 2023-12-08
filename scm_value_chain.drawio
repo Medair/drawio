@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T10:52:02.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YDc-o0n8zCB6s7nRpCCv" version="22.1.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-08T12:46:28.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7SRZ5eEba-T6GjzCRRZ-" version="22.1.7" type="github" pages="9">
   <diagram id="Z4i6N7PGft-0dj0jKOvz" name="Overview - Procurement">
     <mxGraphModel dx="1221" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1200,6 +1200,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-rMzIz7dKTnxSQ7G4Nw3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHT9p_nq8-8FaDuHjBZC-66" target="YHT9p_nq8-8FaDuHjBZC-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YHT9p_nq8-8FaDuHjBZC-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1250" y="380" width="370" height="440" as="geometry" />
         </mxCell>
@@ -1208,6 +1211,9 @@
         </mxCell>
         <mxCell id="YHT9p_nq8-8FaDuHjBZC-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="560" y="380" width="640" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-rMzIz7dKTnxSQ7G4Nw3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHT9p_nq8-8FaDuHjBZC-64" target="YHT9p_nq8-8FaDuHjBZC-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHT9p_nq8-8FaDuHjBZC-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="140" y="380" width="370" height="440" as="geometry" />
